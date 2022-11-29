@@ -27,7 +27,7 @@ Refactor "Horiseon" site to make it more accessible
 [GitHub Pages](https://apyosi.github.io/horiseon-accessibility-refactor/)
 
 ## Screenshot
-![screenshot](images/screenshot.png)
+![screenshot](screenshot.png)
 
 ## License
 MIT
